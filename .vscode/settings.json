@@ -5,7 +5,8 @@
         "gopportunities",
         "gorm",
         "Infof",
-        "successfull"
+        "successfull",
+        "swaggo"
     ],
     "git.ignoreLimitWarning": true
 }
