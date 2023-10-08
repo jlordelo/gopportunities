@@ -3,7 +3,9 @@
         "automigrate",
         "gonic",
         "gopportunities",
-        "gorm"
+        "gorm",
+        "Infof",
+        "successfull"
     ],
     "git.ignoreLimitWarning": true
 }
