@@ -1,7 +1,9 @@
 {
     "cSpell.words": [
+        "automigrate",
         "gonic",
         "gopportunities",
         "gorm"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }

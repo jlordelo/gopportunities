@@ -1,0 +1,16 @@
+# binaries
+
+*.exe
+*.dll
+*.so
+*.dylib
+
+# test binary
+*.test
+
+# Coverage
+*.out
+
+#Db folder
+
+db/
